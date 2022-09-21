@@ -19,4 +19,3 @@ This is the demo and exercise of the data modeling course that I solved - Data E
    1 - Relational data modeling with Postgres<br/>
 - How to create NoSQL data models<br/>
    1 - NoSQL data modeling with Apache Cassandra<br/>
-
